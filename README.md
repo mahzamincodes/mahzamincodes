@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahzamin Khan</h1>
+
+
+<h1 align="center">Hi 👋, I'm Rimon Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **mdrimonkhan765@gmail.com**

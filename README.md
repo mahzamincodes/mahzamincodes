@@ -1,4 +1,4 @@
-
+<img src="https://github.com/mahzamincodes/mahzamincodes/blob/main/banner1.png" alt="Mahzamin khan"/>
 
 <h1 align="center">Hi 👋, I'm Rimon Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
